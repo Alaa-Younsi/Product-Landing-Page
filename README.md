@@ -1,1 +1,1 @@
-#1 C mini platform
+# C mini platform
