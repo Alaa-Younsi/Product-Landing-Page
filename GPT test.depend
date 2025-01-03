@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735597507 source:c:\users\user\desktop\gpt test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
